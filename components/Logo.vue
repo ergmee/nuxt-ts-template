@@ -1,7 +1,7 @@
 <template lang='pug'>
   section
     h1
-      Hello Nuxt + Typescript + Express + Pug + ElementUI !
+      div Hello Nuxt + Typescript + Express + Pug + ElementUI !
 </template>
 
 <script lang="ts">
