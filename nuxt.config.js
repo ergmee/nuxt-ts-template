@@ -31,7 +31,10 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    "element-ui/lib/theme-chalk/index.css"
+    "element-ui/lib/theme-chalk/index.css",
+    "~assets/3rdparty/font-awesome.min.css",
+    "~assets/css/dots.css",
+    'element-ui/lib/theme-chalk/display.css'
   ],
 
   /*

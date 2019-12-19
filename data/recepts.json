@@ -1,0 +1,32 @@
+{
+  "Рецепт_1": {
+    "name": "Рецепт_1",
+    "category": "Десерты",
+    "avatar": "https://img05.rl0.ru/eda/c285x285i/s2.eda.ru/StaticContent/Photos/120131083619/170816150250/p_O.jpg",
+    "description": "описание рецепта",
+    "favoritesAdd": false,
+    "photo":[{"imgName":"sss", "imgPath":"sss"}],
+    "ingredientsList":{
+      "редиска":{"name": "редиска", "amount": 4, "measure":"кг"},
+      "соль":{"name": "соль", "amount": 2, "measure":"ведра"},
+      "ещёчтонибуть":{"name": "ещёчтонибуть", "amount": 17, "measure":"штук"},
+      "базилик":{"name": "базилик", "amount": 1, "measure":"щепотка"}
+    },
+    "tags":["восточная кухня", "блюда из хвоста верблюда"],
+    "metaData": {"autor": "povar","timestamp": 1575223658}
+  },
+  "Рецепт_2": {
+    "name": "Рецепт_2",
+    "category": "Десерты",
+    "avatar": "https://img05.rl0.ru/eda/c285x285i/s1.eda.ru/StaticContent/Photos/120214155832/120214160339/p_O.jpg",
+    "description": "описание рецепта",
+    "favoritesAdd": false,
+    "photo":[{"imgName":"sss", "imgPath":"sss"}],
+    "ingredientsList":{
+      "соль":{"name": "соль", "amount": 2, "measure":"ведра"},
+      "базилик":{"name": "базилик", "amount": 1, "measure":"щепотка"}
+    },
+    "tags":["восточная кухня", "нямка"],
+    "metaData": {"autor": "povar","timestamp": 1575223658}
+  }
+}

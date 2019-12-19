@@ -1,0 +1,238 @@
+{
+  "Масло ши (карите)": {
+    "category": "Масла и жиры",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/shea-butter.jpg",
+    "name": "Масло ши (карите)",
+    "description": "описание продукта",
+    "protein": 0,
+    "fat": 98,
+    "carbohydrate": 0,
+    "kcal": 884,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Масло шишек хмеля": {
+    "category": "Масла и жиры",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/hop-cones-oil.jpg",
+    "name": "Масло шишек хмеля",
+    "description": "описание продукта",
+    "protein": 0,
+    "fat": 99,
+    "carbohydrate": 0,
+    "kcal": 897,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Лопух (репейник) корень": {
+    "category": "Овощи и зелень",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/burdock-2.jpg",
+    "name": "Лопух (репейник) корень",
+    "description": "описание продукта",
+    "protein": 1.5,
+    "fat": 0.1,
+    "carbohydrate": 14,
+    "kcal": 72,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Клетчатка Сибирская": {
+    "category": "Сырье и приправы",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/siberian-cellulose-1.jpg",
+    "name": "Клетчатка Сибирская",
+    "description": "описание продукта",
+    "protein": 0.5,
+    "fat": 0.5,
+    "carbohydrate": 4,
+    "kcal": 40,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Кокосовая манна Nutiva органическая": {
+    "category": "Сырье и приправы",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/coconut-manna.jpg",
+    "name": "Кокосовая манна Nutiva органическая",
+    "description": "описание продукта",
+    "protein": 3.3,
+    "fat": 30,
+    "carbohydrate": 10,
+    "kcal": 334,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Коньячная эссенция": {
+    "category": "Сырье и приправы",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/cognac-essence.jpg",
+    "name": "Коньячная эссенция",
+    "description": "описание продукта",
+    "protein": 0,
+    "fat": 0,
+    "carbohydrate": 0,
+    "kcal": 0,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Корица": {
+    "category": "Сырье и приправы",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/cinnamon.jpg",
+    "name": "Корица",
+    "description": "описание продукта",
+    "protein": 3.9,
+    "fat": 3.2,
+    "carbohydrate": 79.8,
+    "kcal": 261,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "Краситель пищевой": {
+    "category": "Сырье и приправы",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/food-dye.jpg",
+    "name": "Краситель пищевой",
+    "description": "описание продукта",
+    "protein": 0,
+    "fat": 0,
+    "carbohydrate": 0,
+    "kcal": 0,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "говно": {
+    "name": "говно",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/asp.jpg",
+    "category": "Рыба",
+    "description": "описание продукта",
+    "protein": 43,
+    "fat": 687,
+    "carbohydrate": 576,
+    "kcal": 982,
+    "metaData": {
+      "autor": "povar",
+      "timestamp": 1575223658
+    }
+  },
+  "говнецо": {
+    "name": "говнецо",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/asp.jpg",
+    "category": "Масла и жиры",
+    "description": "описание продукта",
+    "protein": 753,
+    "fat": 279,
+    "carbohydrate": 784,
+    "kcal": 587,
+    "metaData": {
+      "autor": "JABA",
+      "timestamp": 1575271358
+    }
+  },
+  "базилик": {
+    "name": "базилик",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/basil-1.jpg",
+    "category": "Рыба",
+    "description": "описание продукта",
+    "protein": 767,
+    "fat": 174,
+    "carbohydrate": 915,
+    "kcal": 644,
+    "metaData": {
+      "autor": "AuthUser",
+      "timestamp": 1575272029
+    }
+  },
+  "ещёчтонибуть": {
+    "name": "ещёчтонибуть",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/asp.jpg",
+    "category": "говно",
+    "description": "описание продукта",
+    "protein": 672,
+    "fat": 227,
+    "carbohydrate": 776,
+    "kcal": 732,
+    "metaData": {
+      "autor": "AuthUser",
+      "timestamp": 1575272038
+    }
+  },
+  "редиска": {
+    "name": "редиска",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/radish.jpg",
+    "category": "Рыба",
+    "description": "описание продукта",
+    "protein": 103,
+    "fat": 111,
+    "carbohydrate": 778,
+    "kcal": 375,
+    "metaData": {
+      "autor": "AuthUser",
+      "timestamp": 1575272559638
+    }
+  },
+  "рыба плюс": {
+    "name": "рыба плюс",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/asp.jpg",
+    "category": "Рыба",
+    "description": "описание продукта",
+    "protein": 732,
+    "fat": 372,
+    "carbohydrate": 221,
+    "kcal": 916,
+    "metaData": {
+      "autor": "AuthUser",
+      "timestamp": 1575272632525
+    }
+  },
+  "соль": {
+    "name": "соль",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/salt-1.jpg",
+    "category": "Рыба",
+    "description": "описание продукта",
+    "protein": 247,
+    "fat": 457,
+    "carbohydrate": 346,
+    "kcal": 337,
+    "metaData": {
+      "autor": "AuthUser",
+      "timestamp": 1575272632525
+    }
+  },
+  "укекуе": {
+    "name": "укекуе",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/asp.jpg",
+    "category": "Масла и жиры",
+    "protein": "99",
+    "fat": "99",
+    "carbohydrate": "99",
+    "kcal": "99",
+    "metaData": {
+      "autor": "this.$store.state.AuthUser",
+      "timestamp": 1576527721855
+    }
+  },
+  "5е4еп45п4": {
+    "name": "5е4еп45п4",
+    "avatar": "http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/asp.jpg",
+    "category": "Овощи и зелень",
+    "protein": "99",
+    "fat": "99",
+    "carbohydrate": "99",
+    "kcal": "99",
+    "metaData": {
+      "autor": "this.$store.state.AuthUser",
+      "timestamp": 1576527766247
+    }
+  }
+}
